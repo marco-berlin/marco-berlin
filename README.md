@@ -1,7 +1,7 @@
 # Hi, I'm Marco 👋
 
-I build tools that let AI coding agents work as teammates on your own machine, under your own control, at [**navobots**](https://github.com/navobots).
+I build tools that let AI coding agents work as teammates on your own machine, under your own control, at [**OpenFolk**](https://github.com/OpenFolk).
 
-- 🤖 Currently preparing **Claude Bots** for its first public release: a messenger-style interface for desktop and phone that runs several Claude Code sessions locally, with approvals, routines and push notifications.
+- 🤖 Currently preparing **OpenFolk** for its first public release: a messenger for desktop and phone that runs several coding agents (Claude Code, Codex and others) on your own computers, with approvals, routines and push notifications.
 - 🛠 Day to day: TypeScript, PHP, self-hosted infrastructure (Docker, Coolify, Hetzner) and workflow automation with n8n.
 - 📍 Berlin
